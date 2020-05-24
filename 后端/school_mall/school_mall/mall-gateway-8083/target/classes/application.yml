@@ -1,0 +1,66 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: mall-gateway
+eureka:
+  client:
+    registry-fetch-interval-seconds: 5
+    service-url:
+      defaultZone: http://127.0.0.1:1010/eureka
+zuul:
+  ignored-services: "*"  #把微服务名访问关了
+  prefix: /api # 路由路径前缀
+  routes: #主要就是path--微服务映射访问路径地址，serviceId---定向得微服务名  http://127.0.0.1:8083/api/recommend/recommendList?pageNum=2
+    goods: #自己起的没关系
+      serviceId: mall-goods-web
+      path: /goods/**
+    recommend:
+      serviceId: mall-recommend
+      path: /recommend/**
+    alipay:
+      serviceId: mall-alipay
+      path: /alipay/**
+    user:
+      serviceId: user-service
+      path: /user/**
+    auth:
+      serviceId: mall-auth
+      path: /auth/**
+    cart:
+      serviceId: mall-cart
+      path: /cart/**
+      sensitive-headers:
+      custom-sensitive-headers: true
+    order:
+      serviceId: mall-alipay
+      path: /order/**
+    service:
+      serviceId: mall-service
+      path: /service/**
+  host:
+      # 连接超时，避免，我那数据有点多，服务器上获取下来有点慢
+    connect-timeout-millis: 20000
+    socket-timeout-millis: 60000
+  add-host-header: true
+#  senstive-headers: #默认覆盖网关信息
+ribbon:
+  ReadTimeout: 20000
+  ConnectTimeout: 60000
+  eureka:
+    enable: true
+mall:
+  jwt:
+    pubKeyPath: D:/cdtu/rsa/rsa.pub # 公钥地址
+    cookieName: CDTU_MALL_TOKAEN   #cookie名字
+  filter:
+    allowPaths:
+      - /api/goods
+      - /api/recommend
+      - /api/user
+      - /api/auth
+      - /api/order
+      - /api/cart
+      - /api/service
+
+

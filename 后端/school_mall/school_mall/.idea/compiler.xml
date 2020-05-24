@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-goods-web-8081" />
+        <module name="mall-user-8087" />
+        <module name="mall-common" />
+        <module name="mall-service-8090" />
+        <module name="mall-auth-8088" />
+        <module name="mall-alipay-8086" />
+        <module name="mall-item" />
+        <module name="mall-registry-1010" />
+        <module name="mall-cart-8089" />
+        <module name="mall-recommend-8085" />
+        <module name="mall-gateway-8083" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mall-alipay-8086" options="-parameters" />
+      <module name="mall-auth-8088" options="-parameters" />
+      <module name="mall-cart-8089" options="-parameters" />
+      <module name="mall-common" options="-parameters" />
+      <module name="mall-gateway-8083" options="-parameters" />
+      <module name="mall-goods-web-8081" options="-parameters" />
+      <module name="mall-item" options="-parameters" />
+      <module name="mall-recommend-8085" options="-parameters" />
+      <module name="mall-registry-1010" options="-parameters" />
+      <module name="mall-service-8090" options="-parameters" />
+      <module name="mall-user-8087" options="-parameters" />
+    </option>
+  </component>
+</project>

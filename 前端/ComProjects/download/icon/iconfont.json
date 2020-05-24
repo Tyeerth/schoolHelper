@@ -1,0 +1,51 @@
+{
+  "id": "1756172",
+  "name": "school-mall-icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "37256",
+      "name": "二手",
+      "font_class": "ershou",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1849146",
+      "name": "退款 售后",
+      "font_class": "tuikuanshouhou",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "3264215",
+      "name": "待发货",
+      "font_class": "daifahuo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9507152",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "10087914",
+      "name": "待付 款",
+      "font_class": "daifukuan",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "12622195",
+      "name": "评价",
+      "font_class": "ziyuan",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

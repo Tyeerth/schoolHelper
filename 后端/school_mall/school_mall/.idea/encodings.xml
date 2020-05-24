@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-alipay-8086" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-auth-8088" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart-8089" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-gateway-8083" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-goods-web-8081" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-recommend-8085" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-registry-1010" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-service-8090" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-user-8087" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f285292d-a46d-41c2-8055-8b0b42e921b8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/mall-common/target/" />
+    <ignored path="$PROJECT_DIR$/mall-item/target/" />
+    <ignored path="$PROJECT_DIR$/mall-goods-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-registry/target/" />
+    <ignored path="$PROJECT_DIR$/mall-recommend/target/" />
+    <ignored path="$PROJECT_DIR$/mall-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/mall-registry-8082/target/" />
+    <ignored path="$PROJECT_DIR$/mall-recommend-8085/target/" />
+    <ignored path="$PROJECT_DIR$/mall-goods-web-8081/target/" />
+    <ignored path="$PROJECT_DIR$/mall-gateway-8083/target/" />
+    <ignored path="$PROJECT_DIR$/mall-alipay/target/" />
+    <ignored path="$PROJECT_DIR$/mall-alipay-8086/target/" />
+    <ignored path="$PROJECT_DIR$/mall-registry-1010/target/" />
+    <ignored path="$PROJECT_DIR$/mall-user-8087/target/" />
+    <ignored path="$PROJECT_DIR$/mall-auth-8088/target/" />
+    <ignored path="$PROJECT_DIR$/mall-cart-8089/target/" />
+    <ignored path="$PROJECT_DIR$/mall-service-8090/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/LoseController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/CdtuMallServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/SchoolNews.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/SchoolNewsService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2730">
+              <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="133" column="3" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/SchoolNewsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/RunController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyPipeLine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mediaStreamTrack</find>
+      <find>叶校长指出，学校今年各项工</find>
+      <find>2017级通信工程2班杨奥斯同学荣获成都市</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/alipay/controller/PayController.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/alipay/config/AlipayConfig.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/utils/PayHelper.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/alipay/service/PhonePayService.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/alipay/controller/PhonePayController.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/Order.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/OrderStatus.java" />
+        <option value="$PROJECT_DIR$/mall-cart-8089/src/main/java/cdtu/mall/cart/FeignClient/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/mall-cart-8089/src/main/java/cdtu/mall/cart/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/mall-cart-8089/src/main/java/cdtu/mall/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/mall-cart-8089/src/main/java/cdtu/mall/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/mapper/AddressMapper.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/service/api/GoodsService.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/controller/AddressController.java" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/service/AddressService.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Activity.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/ActivityMapper.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/ActivityService.java" />
+        <option value="$PROJECT_DIR$/mall-gateway-8083/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Run.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/RunMapper.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/LoseMapper.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/RunService.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/LoseService.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/LoseController.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/ActivityController.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/RunController.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Lose.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/Base64Util.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/config/UnitConfig.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/UnitController.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/test/java/Unit/Test.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/UnitService.java" />
+        <option value="$PROJECT_DIR$/mall-cart-8089/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-goods-web-8081/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-recommend-8085/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-user-8087/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/SchoolNewsMapper.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/CdtuMallServiceApplication.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/config/SchoolNewsConfig.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyPipeLine.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/SchoolNews.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyTask.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/SchoolNewsService.java" />
+        <option value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/SchoolNewsController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.alipay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.alipay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.alipay" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mall.auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-auth-8088" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-auth-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-auth-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-auth-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-auth-8088" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-registry-1010" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-registry-1010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-registry-1010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-registry-1010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-registry-1010" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="registry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="school_mall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="school_mall" type="462c0819:PsiDirectoryNode" />
+              <item name="mall-user-8087" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cdtu.mall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目\school_mall\school_mall\mall-service-8090\src\main\java\cdtu\mall\service\utils" />
+      <recent name="D:\项目\school_mall\school_mall\mall-alipay-8086\src\main\resources" />
+      <recent name="D:\项目\school_mall\school_mall\mall-alipay-8086\src\main\java\cdtu\mall\order" />
+      <recent name="D:\项目\school_mall\school_mall\mall-user-8087\src\main\resources" />
+      <recent name="D:\项目\school_mall\school_mall\mall-user-8087\src\test\java\cdtu\mall\faceLogin" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cdtu.mall.cart.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目\school_mall\school_mall\mall-alipay-8086\src\main\resources\template" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CdtuMallServiceApplication">
+    <configuration name="CdtuMallAlipayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-alipay-8086" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.CdtuMallAlipayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-auth-8088" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdtu.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.CdtuMallAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-cart-8089" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.cart.CdtuMallCartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-gateway-8083" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdtu.mall.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.gateway.CdtuMallGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-goods-web-8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdtu.mall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.CdtuMallGoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-registry-1010" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdtu.mall.registry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.registry.CdtuMallRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mall-service-8090" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cdtu.mall.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.service.CdtuMallServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CdtuMallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-user-8087" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cdtu.mall.CdtuMallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CdtuMallServiceApplication" />
+        <item itemvalue="Spring Boot.CdtuMallGatewayApplication" />
+        <item itemvalue="Spring Boot.CdtuMallRegistryApplication" />
+        <item itemvalue="Spring Boot.CdtuMallAuthApplication" />
+        <item itemvalue="Spring Boot.CdtuMallGoodsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f285292d-a46d-41c2-8055-8b0b42e921b8" name="Default Changelist" comment="" />
+      <created>1583305341150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583305341150</updated>
+      <workItem from="1583305346773" duration="1801000" />
+      <workItem from="1583307164043" duration="2297000" />
+      <workItem from="1583311565897" duration="8728000" />
+      <workItem from="1583383650254" duration="15537000" />
+      <workItem from="1583453428483" duration="11737000" />
+      <workItem from="1583550025396" duration="2781000" />
+      <workItem from="1583714121515" duration="6913000" />
+      <workItem from="1583730664632" duration="6009000" />
+      <workItem from="1583812379931" duration="7362000" />
+      <workItem from="1583891348335" duration="9964000" />
+      <workItem from="1583979696822" duration="2052000" />
+      <workItem from="1584149798255" duration="3840000" />
+      <workItem from="1584240354568" duration="23366000" />
+      <workItem from="1584326410187" duration="15412000" />
+      <workItem from="1584410685651" duration="2305000" />
+      <workItem from="1584494595313" duration="20517000" />
+      <workItem from="1584600745664" duration="7610000" />
+      <workItem from="1584676167073" duration="6769000" />
+      <workItem from="1584772027626" duration="5856000" />
+      <workItem from="1584791271069" duration="5024000" />
+      <workItem from="1584838907072" duration="804000" />
+      <workItem from="1584847466226" duration="2293000" />
+      <workItem from="1584930569141" duration="13317000" />
+      <workItem from="1585016486278" duration="5738000" />
+      <workItem from="1585056603678" duration="1848000" />
+      <workItem from="1585094532943" duration="29181000" />
+      <workItem from="1585271009793" duration="3310000" />
+      <workItem from="1585539217986" duration="598000" />
+      <workItem from="1585625917280" duration="812000" />
+      <workItem from="1585706138301" duration="1243000" />
+      <workItem from="1585794445358" duration="1204000" />
+      <workItem from="1585875164189" duration="1305000" />
+      <workItem from="1585985878218" duration="711000" />
+      <workItem from="1586133584558" duration="1464000" />
+      <workItem from="1586221888918" duration="6811000" />
+      <workItem from="1586563820010" duration="2985000" />
+      <workItem from="1586654107804" duration="726000" />
+      <workItem from="1586763241027" duration="2039000" />
+      <workItem from="1586823097428" duration="14953000" />
+      <workItem from="1586912536604" duration="13380000" />
+      <workItem from="1586999127737" duration="26286000" />
+      <workItem from="1587084054354" duration="14607000" />
+      <workItem from="1587171340720" duration="13852000" />
+      <workItem from="1587343354530" duration="4417000" />
+      <workItem from="1587429101939" duration="7782000" />
+      <workItem from="1587514156889" duration="20878000" />
+      <workItem from="1587602167851" duration="8686000" />
+      <workItem from="1587696707538" duration="4386000" />
+      <workItem from="1587777597455" duration="5939000" />
+      <workItem from="1587862186191" duration="8761000" />
+      <workItem from="1587951768448" duration="1858000" />
+      <workItem from="1588214858999" duration="7535000" />
+      <workItem from="1588335795855" duration="1113000" />
+      <workItem from="1588408653995" duration="1533000" />
+      <workItem from="1588465012414" duration="745000" />
+      <workItem from="1588556586953" duration="4269000" />
+      <workItem from="1588725096410" duration="1225000" />
+      <workItem from="1588828396178" duration="1635000" />
+      <workItem from="1588994242508" duration="701000" />
+      <workItem from="1589252288649" duration="754000" />
+      <workItem from="1589331610824" duration="729000" />
+      <workItem from="1589456753541" duration="2094000" />
+      <workItem from="1589687794554" duration="18803000" />
+      <workItem from="1589763557499" duration="5747000" />
+      <workItem from="1589850728055" duration="611000" />
+      <workItem from="1589935396376" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FaceloginApplicationTests_test - 2020.04.15 at 19h 20m 06s.xml">
+      <configuration name="FaceloginApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaceloginApplicationTests_test - 2020.04.15 at 19h 21m 20s.xml">
+      <configuration name="FaceloginApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaceloginApplicationTests_test - 2020.04.15 at 19h 23m 31s.xml">
+      <configuration name="FaceloginApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaceloginApplicationTests_test - 2020.04.15 at 19h 24m 00s.xml">
+      <configuration name="FaceloginApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaceloginApplicationTests_test - 2020.04.15 at 19h 26m 02s.xml">
+      <configuration name="FaceloginApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FaceloginApplicationTests_test2 - 2020.04.16 at 11h 53m 52s.xml">
+      <configuration name="FaceloginApplicationTests.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test - 2020.04.30 at 11h 53m 26s.xml">
+      <configuration name="Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.04.30 at 11h 54m 47s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.04.30 at 12h 00m 41s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test1 - 2020.04.30 at 14h 02m 40s.xml">
+      <configuration name="Test.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="436212000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.072265625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08093278" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.113854595" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.041152265" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.01953125" />
+      <window_info anchor="right" id="Jms Messenger" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/mall-goods-web-8081/src/main/java/cdtu/mall/goods/service/Imp/SkusServiceImp.java</url>
+          <line>15</line>
+          <properties field="skusDao" class="cdtu.mall.goods.service.Imp.SkusServiceImp" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-goods-web-8081/src/main/java/cdtu/mall/goods/service/Imp/SkusServiceImp.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-goods-web-8081/src/main/java/cdtu/mall/search/service/imp/SearchServiceImp.java</url>
+          <line>149</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-recommend-8085/src/main/java/cdtu/mall/recommend/controller/RespGoodController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-recommend-8085/src/main/java/cdtu/mall/recommend/service/imp/RespServiceImp.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-goods-web-8081/src/test/java/mySearch/Test.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-common/src/main/java/cdtu/mall/common/utils/CookieUtils.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-gateway-8083/src/main/java/cdtu/mall/gateway/filter/LoginFilter.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-gateway-8083/src/main/java/cdtu/mall/gateway/filter/LoginFilter.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-gateway-8083/src/main/java/cdtu/mall/gateway/filter/LoginFilter.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-user-8087/src/main/java/cdtu/mall/user/listener/SmsListener.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyTask.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyPipeLine.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyTask.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>targetException</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mall-user-8087/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/mapper/OrderDetailMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-alipay-8086/src/main/java/cdtu/mall/order/order/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-cart-8089/src/main/java/cdtu/mall/cart/CdtuMallCartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-goods-web-8081/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="60" column="21" selection-start-line="56" selection-start-column="8" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/ActivityMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/ActivityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/Lose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/RunMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/LoseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/RunService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/LoseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-auth-8088/src/main/java/cdtu/mall/faceRecg/Utils/Base64Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-auth-8088/src/main/java/cdtu/mall/faceRecg/Utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/GetToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/UnitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/test/java/Unit/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/UnitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="110" selection-start-line="19" selection-start-column="104" selection-end-line="19" selection-end-column="110" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/GsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-alipay-8086/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-auth-8088/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-cart-8089/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-goods-web-8081/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-recommend-8085/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-user-8087/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-auth-8088/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1898">
+          <caret line="73" column="21" selection-start-line="49" selection-start-column="8" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/utils/Base64Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-recommend-8085/src/main/java/cdtu/mall/recommend/CdtuMallRecommendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/mapper/SchoolNewsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/config/UnitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/config/SchoolNewsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar!/org/apache/commons/lang3/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#3035#3036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-gateway-8083/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="63" column="20" lean-forward="true" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/ActivityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.3/pagehelper-spring-boot-starter-1.2.3.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/LoseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/CdtuMallServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/pojo/SchoolNews.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/service/SchoolNewsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="105" column="29" selection-start-line="105" selection-start-column="29" selection-end-line="105" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="133" column="3" selection-start-line="133" selection-start-column="3" selection-end-line="133" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/RunController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/Task/MyPipeLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-service-8090/src/main/java/cdtu/mall/service/controller/SchoolNewsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mall-service-8090</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

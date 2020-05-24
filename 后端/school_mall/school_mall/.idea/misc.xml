@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-registry-8082/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-recommend-8085/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-item/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-goods-web-8081/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-gateway-8083/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-common/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-alipay-8086/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-registry-1010/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-user-8087/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

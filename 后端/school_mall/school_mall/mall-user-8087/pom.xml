@@ -86,7 +86,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>6.0.16.Final</version>
+            <version>6.1.0.Final</version>
         </dependency>
 <!--                &lt;!&ndash;人脸识别&ndash;&gt;-->
 <!--        <dependency>-->
